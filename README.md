@@ -1,5 +1,7 @@
 # Event Traffic Forecasting 
 
+The offical implement of paper "Event Traffic Forecasting with Sparse Multimodal Data", ACM MM 24.
+ 
 ## How to Install?
 We test on Ubuntu 22 + python 3.9
 
